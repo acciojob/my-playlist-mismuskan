@@ -7,9 +7,11 @@ body{
 h1{
 	text-align:center;
 }
-.list{
+.player_one{
 	height:100px;
 	width:500px;
+	border-radius:5px;
+	
 	background-color:white;
 	padding:10px;
 	border:1px solid black;
@@ -25,7 +27,8 @@ img{
 a{
 color:black;
 }
-.now{
+.player_two{
+	border-radius:5px;
 	height:400px;
 	width:400px;
 	background-color:white;
