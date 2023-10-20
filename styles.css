@@ -1,6 +1,11 @@
 /*  your css code here. If applicable */
 body{
 	background-color: rgb(204, 204, 204);
+	text-decoration-line:none;
+	
+}
+h1{
+	text-align:center;
 }
 .list{
 	height:100px;
